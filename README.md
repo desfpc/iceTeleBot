@@ -1,0 +1,2 @@
+# iceTeleBot
+Simple Telegram bot.
